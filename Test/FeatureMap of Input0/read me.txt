@@ -1,0 +1,1 @@
+These are the layers feature maps of Input0.txt from the Floating Point Representation folder.
