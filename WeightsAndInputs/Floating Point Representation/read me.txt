@@ -1,0 +1,1 @@
+Normal weights after extracting from the h5 file of the Network Folder.
