@@ -1,0 +1,1 @@
+This is FloPoCo representation of the weights and inputs in the ../Floating Point Representation Folder. 
