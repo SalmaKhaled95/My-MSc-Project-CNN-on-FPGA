@@ -1,0 +1,1 @@
+This folder has the python code of the pruned neural network.
