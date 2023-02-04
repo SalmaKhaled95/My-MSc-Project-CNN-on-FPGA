@@ -1,0 +1,1 @@
+This folder contains the software part of the research that is executed on the ARM Processor.
