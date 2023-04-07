@@ -1,0 +1,22 @@
+module : WrapperForFPGA
+
+upload code files
+compile
+
+pin planner (Output on GPIO, clk) 
+compile
+
+PROGRAM DEVICE (Put a second square (device))
+
+
+signal tap (Choose the clock on the right and the output signals on the left)
+compile
+PROGRAM DEVICE (delete the second device and insert again)
+
+make sure to choose the second square at the data tab of signal tap, and the clock constraint is slow clock and pre synthesis in signal tap and jtag clock is 6 not 24
+
+./jtagconfig --setparam 1 JtagClock 6M
+./jtagconfig --getparam 1 JtagClock
+C:\intelFPGA_lite\18.1\quartus\bin64>
+
+5CSXFC6D6F31C6
