@@ -1,4 +1,4 @@
-This folder contains the smallest combination of the (3_1). I replaced the numbers to be single precision flopoco instead of double precision flopoco. 
+This folder contains the smallest combination (3_1). I replaced the numbers to be single precision flopoco instead of double precision flopoco. 
 The weights, input stream and output stream are converted to 34 bits instead of 66 bits
 The design fits on the FPGA DE10 Standard.
 The input stream is read from a ROM.
