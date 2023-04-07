@@ -5,4 +5,4 @@ The input stream is read from a ROM.
 The output stream is read via Quartus Signal Tap
 The values are correct.
 
-Upload the verilog and vhdl and sdc files then follow the steps text.
+Upload the verilog, vhdl and sdc files then follow the steps text.
